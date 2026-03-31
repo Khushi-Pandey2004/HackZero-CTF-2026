@@ -9,14 +9,14 @@ Participated in **HackZero'26 (VIT Bhopal)** – a 24-hour Capture The Flag comp
 ## 🏆 Performance
 
 * **Team Name:** netscaf
-
 * **Team Rank:** 31st
-
 * **Team Score:** 4975 points
 
-* **My Username:** Predator
+### 👥 Team Members
 
-* **My Contribution:** 2775 points
+* **Ritik Rajput (netscaf) – Team Captain** – 2200 points
+
+* **Khushi (Predator)** – 2775 points
 
 * **Total Solves (by me):** 21
 
