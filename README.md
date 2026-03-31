@@ -138,5 +138,5 @@ Each challenge folder contains:
 
 ## 📌 Author
 
-**Khushi**
+**Khushi (Predator) **
 ---
