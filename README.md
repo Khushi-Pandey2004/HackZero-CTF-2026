@@ -144,4 +144,5 @@ Each challenge folder contains:
 
 ---
 ⭐ If you found this repository useful, consider giving it a star!
+
 ---
