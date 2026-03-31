@@ -143,3 +143,5 @@ Each challenge folder contains:
 * **Khushi (Predator)**
 
 ---
+⭐ If you found this repository useful, consider giving it a star!
+---
