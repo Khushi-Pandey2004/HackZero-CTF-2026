@@ -137,7 +137,7 @@ Each challenge folder contains:
 ## 📌 Author
 
 **Khushi**
-*ECE @ Central University of Jammu
-*Cybersecurity Enthusiast
+* ECE @ Central University of Jammu
+* Cybersecurity Enthusiast
 
 ---
