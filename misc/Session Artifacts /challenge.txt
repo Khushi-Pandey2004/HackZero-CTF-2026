@@ -1,0 +1,17 @@
+ Session Artifacts
+150
+
+@Bsides_Indore
+6 (100% liked) 0
+
+During the session by Prathmesh Dharkar, something extra slipped in at the very end of the slides.
+
+Most people closed the deck. A few didn’t.
+
+Sometimes the last slide isn’t really the last.
+
+Flag format: hackzero{}
+
+youtube session : https://www.youtube.com/watch?v=sCkzuBcF98c
+
+flag : hackzero{fr0m_1nt31_70_4c7i0n}

@@ -1,0 +1,15 @@
+hackzero{Kaminoyama_Castle}
+
+
+ Tourist Kidnapped!
+50
+
+Jayanth(@jr)
+3 (100% liked) 0
+
+I have been kidnapped, I called the Police! . They want to know my current location!
+
+Flag Format: hackzero{NameOfThePlace}
+
+(Replace spaces with underscore)
+

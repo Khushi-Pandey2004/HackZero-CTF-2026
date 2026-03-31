@@ -1,0 +1,19 @@
+╔══════════════════════════════════════════════════════════════╗
+║               VOIDMARKET — ACTIVE LISTINGS                  ║
+║           Last snapshot: 2026-03-28 03:58:12 IST            ║
+╚══════════════════════════════════════════════════════════════╝
+
+ ID   ITEM                              SELLER        PRICE (BTC)
+────────────────────────────────────────────────────────────────
+ 001  RDP zero-day (unpatched, 2024)    sh4d0wbr0k3r     115.00
+ 002  PhishKit Pro v4 — 50k template    n1ghtcr4wl3r     112.00
+ 003  Stealer log dump — 200k records   r3dsp1d3r         51.00
+ 004  Fullz pack EU — 10k entries       gr1ml0ck          99.00
+ 005  Cobalt Strike license (cracked)   b1n4ryw0lf       116.00
+ 006  OPSEC handbook — darknet edition  z3r0c00l         114.00
+ 007  Custom RAT builder + support      ph4nt0m           52.00
+ 008  SSH bruteforce cluster (24hr)     d3m0ng4te        108.00
+────────────────────────────────────────────────────────────────
+
+  All prices are final. Disputes handled by admin only.
+  Contact: [REDACTED — admin identity sealed]

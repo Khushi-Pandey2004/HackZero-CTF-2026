@@ -1,0 +1,13 @@
+ Cant Access??
+150
+
+@pphreak_1001
+1 (100% liked) 0
+
+No reference, no access. Or is any reference enough?
+
+Flag Format: hackzero{}
+
+Challenge URL: http://cantaccess.vitbctf.dev
+
+Flag: hackzero{6b9c77770f0e29e16928db46fa8d6e3b}

@@ -1,0 +1,29 @@
+ Simple Stegno
+150
+
+@pphreak_1001
+0 0
+
+No fancy tricks, no rabbit holes. Just an image and a secret. Sometimes the simplest tools leave the deepest marks. "What you see isn't all there is."
+
+
+flag : hackzero{e54f544757931a7e10535d2390adfb08}
+
+file output.png
+output.png: PNG image data, 1507 x 1767, 8-bit/color RGBA, non-interlaced
+                    
+zsteg output.png
+b1,rgb,lsb,xy       .. text: "hackzero{e54f544757931a7e10535d2390adfb08}"
+b2,rgb,lsb,xy       .. file: OpenPGP Secret Key
+b2,rgba,lsb,xy      .. file: OpenPGP Secret Key
+b3,rgba,lsb,xy      .. file: MPEG-4 LOAS
+b4,r,msb,xy         .. text: "C&$B&6@p4bW#c"
+b4,g,lsb,xy         .. text: "D$f.fB \"DB"
+b4,g,msb,xy         .. text: "ds@\"$ftfB"
+b4,b,msb,xy         .. text: "g\"uGSB!W5 twsp5r"
+b4,rgb,msb,xy       .. text: "4&WrC3F#PF3"
+b4,bgr,msb,xy       .. text: "'6T's2CCV C"
+b4,abgr,msb,xy      .. text: "'oC_'?'?C?d_ ?d"
+                                               
+
+

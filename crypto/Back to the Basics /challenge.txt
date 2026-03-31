@@ -1,0 +1,12 @@
+ Back to the Basics
+25
+
+@AnkitS01
+8 (100% liked) 0
+
+How can we have a CTF without a challenge that provides no context what-so-ever? Well, someone once said "Sometimes we forget to approach a problem in reverse".
+
+ciphertext = "ZDcgZTYgNzcgMDMgNDYgZjUgMzMgZTYgMDMgZjUgMjcgMzMgOTcgNDMgYzYgYjcgZjYgMjcgNTYgYTcgYjYgMzYgMTYgODY="
+
+
+hackzero{l4y3r_0n3_d0wn}

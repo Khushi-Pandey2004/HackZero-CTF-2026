@@ -1,0 +1,12 @@
+hackzero{sp3ctr4l}
+
+ VOIDMARKET
+100
+
+@AnkitS01
+1 (100% liked) 0
+
+The underground's most secretive trading platform just went dark after a researcher dumped its backend data. Inside the dump: an encrypted file and a marketplace listing frozen at the moment of seizure. The admin was paranoid. He encrypted his own identity with RSA before storing it anywhere but paranoia doesn't fix bad math. Find the admin's handle. That's one part of your flag and the rest is encoded somewhere in either of the two given files.
+
+Flag Format: hackzero{}
+

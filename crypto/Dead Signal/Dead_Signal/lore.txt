@@ -1,0 +1,14 @@
+HACKZERO THREAT INTELLIGENCE BULLETIN
+Operation BLUESTAR — TLP:WHITE
+
+Logging unusual beacon traffic from a known threat actor.
+Analysis of the traffic pattern suggests ties to East Asian APT clusters.
+Zero attribution confirmed — but the tooling is familiar.
+Artifacts recovered from the C2 node are attached for your analysis.
+Recall that this group is known for encrypting their operation codenames.
+Unusual encoding schemes have been observed in past campaigns.
+Signature traffic headers match a 2016-era implant framework.
+
+Analysts believe the intercepted ciphertext uses a classical cipher.
+No key material was recovered from the C2 node directly — it may be
+embedded within this very bulletin. Look carefully.

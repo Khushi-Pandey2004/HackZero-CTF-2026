@@ -1,0 +1,23 @@
+hackzero{br41nfuck_is_not_r34l!}
+
+ An Open Secret
+250
+
+@Snehil(Mr0x00)
+3 (100% liked) 0
+
+Two systems met somewhere on the network. They exchanged numbers, performed their rituals, and left, confident that no one watching could ever reconstruct what they agreed upon. Unfortunately for them, we were watching. A packet capture of their conversation has been recovered. It’s messy. There’s noise, chatter, and a lot of confidence in how “secure” everything is buried inside, however, is everything you need. The math looks solid. The values look large. Nothing obviously broken. But security isn’t just about choosing the right algorithm it’s about how you use it. If you think this can be solved with a clever shortcut, think again. You might need to go further than you initially expect. Recover the shared secret and use it to unlock what they tried to hide.
+
+Flag Format: hackzero{}
+
+
+python rit.py
+
+[*] Trying BSGS with limit 2^40 = 1099511627776
+[*] BSGS: m=1048577, building table of 1048577 entries...
+[*] Table built. Running giant steps...
+  giant step 0/1048577...
+[+] Found b = 234797908
+[+] Shared secret = 2917912052384768124667089622276645554263637096315789981311223279294139677195180738475072577134102346749289434060321004714706929560791763626145777474484563
+[+] FLAG with passphrase '5edba444d2ecc490bfbbaa37ce1ce7daa1844e4e': hackzero{br41nfuck_is_not_r34l!}
+                     

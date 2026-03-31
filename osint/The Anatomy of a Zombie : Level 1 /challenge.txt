@@ -1,0 +1,1 @@
+flag: hackzero{Ch_2.14.1_thumb.dd}

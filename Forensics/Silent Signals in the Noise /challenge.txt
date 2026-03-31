@@ -1,0 +1,12 @@
+hackzero{5734l7h13r_7h4n_4p7$}
+
+ Silent Signals in the Noise
+200
+
+@Snehil(Mr0x00)
+5 (100% liked) 0
+
+While analysing network traffic suspected to be linked to an advanced persistent threat (APT), everything appears to blend into normal activity, HTTP requests, random connections, and routine chatter. Yet something feels off. Beneath this seemingly harmless traffic, a hidden communication may be taking place. Can you distinguish whether this is truly benign traffic, or uncover the covert message buried within the noise?
+
+Flag Format: hackzero{}
+

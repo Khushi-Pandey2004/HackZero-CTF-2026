@@ -1,0 +1,2 @@
+flag : hackzero{ethereal.exe_0xC001BA5E}
+
