@@ -135,7 +135,11 @@ Each challenge folder contains:
 
 ---
 
-## 📌 Author
+## 👥 Authors
 
-**Khushi (Predator)**
+* **Ritik Rajput (Team Captain)**
+  GitHub: https://github.com/iritikrajput
+
+* **Khushi (Predator)**
+
 ---
