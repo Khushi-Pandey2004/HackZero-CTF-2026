@@ -99,7 +99,6 @@ This repository contains categorized writeups for all challenges **solved by me*
 ## 🛠️ Tools & Techniques Used
 
 * Wireshark
-* Burp Suite
 * CyberChef
 * Steghide / zsteg
 * CrackStation / hashcat
