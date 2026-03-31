@@ -1,4 +1,6 @@
 # 🛡️ HackZero CTF 2026 – Writeups
+<img width="1600" height="838" alt="image" src="https://github.com/user-attachments/assets/13573cd9-cf4c-4c8a-851a-69e0387d5a60" />
+
 
 Participated in **HackZero'26 (VIT Bhopal)** – a 24-hour Capture The Flag competition.
 
